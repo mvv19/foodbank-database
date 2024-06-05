@@ -1,0 +1,44 @@
+<html>
+  <head>
+      <title>Browse Staff</title>
+    <style>
+      h1 {
+        margin-top: 50px;
+        margin-left : 10px;
+        font-family: Garamond, serif;
+
+      }
+      p {
+        font-size: 24px;
+        font-family: Garamond, serif;
+        margin-left: 20px;
+      }
+      body {
+      font-family: Garamond, serif;
+      background-color : #FDF7EF;
+      text-align: center;
+      } 
+      ul {
+        text-align: center;
+      }
+
+
+    </style>
+  </head>
+<body>
+  <h1>Browse Staff Directory</h1>
+  {% if entries|length > 0 %}
+      <ul>
+      {% for entry in entries %}
+          <li><b>{{ entry.firstname }}</b> ({{ entry.lastname }})
+          <p>
+          {{ entry.email }}
+          <hr>
+      {% endfor %}
+      </ul>
+  {% else %}
+      There are no Staff in the database
+  {% endif %}
+  <a href="{{ url_for('index') }}">Back to homepage</a>
+</body>
+</html>

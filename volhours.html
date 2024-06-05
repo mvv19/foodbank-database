@@ -1,0 +1,59 @@
+<html>
+  <head>
+      <title>Service Portal</title>
+    <style>
+      h1 {
+        margin-top: 50px;
+        margin-left : 10px;
+        font-family: Garamond, serif;
+
+      }
+      p {
+        font-size: 24px;
+        font-family: Garamond, serif;
+        margin-left: 20px;
+      }
+      body {
+      font-family: Garamond, serif;
+      background-color : #FDF7EF;
+      text-align: center;
+      }
+      ul {
+        text-align: center;
+      }
+
+
+    </style>
+  </head>
+<body>
+  <h2>Log Service Hours!</h2>
+  {% if step=="compose_entry" %}
+      <form action="{{ url_for('volhours') }}" method="post">
+      First Name: <input type="text" size="30" name="first" required><br>
+      Last Name: <input type="text" size="30" name="last" required><br>
+      Email: <input type="text" size="30" name="email" required><br>
+      Service Hours: <input type="number" size="30" name="hours" required><br>
+      Date: <input type="date" size="30" name="date" required><br>
+      <input type="hidden" name="step" value="add_entry">
+      Food Bank:
+      <select name="food_bank" required>
+          {% for food_bank in food_banks %}
+              <option value="{{ name }}"> {{ food_bank.name + ", " + food_bank.address  }}</option>
+          {% endfor %}
+        </select><br>
+        <input type="submit">
+      </form>
+  <hr>
+  <a href="{{ url_for('volunteerhome') }}">Return to Volunteer Hub</a> 
+  {% elif step == "add_entry" %}
+      Your information has been received.
+      <p>
+      <a href="{{ url_for('index') }}">Back to homepage</a>
+  {% elif step == "null_entry" %}
+      You are not a registered volunteer.  Please sign up first. 
+      <p>
+        <a href="{{ url_for('index') }}">Back to homepage</a>
+  {% endif %}
+      </p>
+</body>
+</html>

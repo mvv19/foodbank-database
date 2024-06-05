@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <title>Reviews</title>
+    <style>
+      h1 {
+        margin-top: 50px;
+        margin-left : 10px;
+        font-family: Garamond, serif;
+
+      }
+      p {
+        font-size: 24px;
+        font-family: Garamond, serif;
+        margin-left: 20px;
+      }
+      body {
+      font-family: Garamond, serif;
+      background-color : #FDF7EF;
+      text-align: center;
+      } 
+      ul {
+        text-align: center;
+      }
+
+
+    </style>
+  </head>
+  <body>
+    <h1>Write a review</h1>
+    {% if step=="compose_entry" %}
+      <form action="{{ url_for('review') }}" method="post">
+        Email: <input type="text" size="30" name="ReviewerEmail"><br>
+        Food Bank:       
+          <select name="foodbank">
+            {% for food_bank in food_banks %}
+            <option value="{{ food_bank[0] }}">{{ food_bank[1] }}</option>
+            {% endfor %}
+          </select><br>
+        Rating (out of 5): <input type="number" size="30" name="numOfStars" min="1" max="5"><br>
+        <input type="submit">
+      </form>
+    <hr>
+    <a href="{{ url_for('index') }}">Return to homepage</a>
+    {% endif %}
+  </body>
+</html>

@@ -1,0 +1,130 @@
+<html>
+  <head>
+    <title>Find a foodbank</title>
+    <style>
+      h1 {
+        margin-top: 50px;
+        margin-left : 10px;
+        font-family: Garamond, serif;
+
+      }
+      p {
+        font-size: 24px;
+        font-family: Garamond, serif;
+        margin-left: 20px;
+      }
+      body {
+      font-family: Garamond, serif;
+      background-color : #FDF7EF;
+      text-align: center;
+      } 
+      ul {
+        text-align: center;
+      }
+
+
+    </style>
+  </head>
+
+  <!-- Plan: Either search by name, or allow user to filter by address, name, dateFounded, or ownerEmail-->
+  <body>
+    <h1>Search and Filtering Tool</h1>
+    {% if step == "search_or_filter" %}
+      
+    
+      <form action="{{ url_for('bankfilter') }}" method="post">
+
+        <label for="searchQuery">Search for a foodbank by name:</label><br>
+        <input type="text" id="searchQuery" name="searchQuery"><br>
+
+        <input type="hidden" name="step" value="search">
+        <input type="submit">
+        
+      </form>
+      <br>
+      <hr>
+      <br>
+      Alternatively, you may filter all Food Banks by one of the following attributes:
+      <br>
+      
+      <!--address, name, dateFounded, ownerEmail -->
+
+      <form action="{{ url_for('bankfilter') }}" method="post"> 
+
+        <input type="radio" id="addr" name="choice" value="Address">
+        <label for="addr">Address</label><br>
+        <input type="radio" id="name" name="choice" value="Bank Name">
+        <label for="name">Bank Name</label><br>
+        <input type="radio" id="founded" name="choice" value="Date Founded">
+        <label for="founded">Date Founded</label><br>
+        
+        <input type="radio" id="email" name="choice" value="Owner Email">
+        <label for="email">Owner Email</label><br>
+        
+        <input type="hidden" name="step" value="filter">
+        <input type="submit">
+      </form>
+
+      <br>
+      <hr>
+
+      <a href="{{ url_for('index') }}">Back to homepage</a>
+
+    {% elif step == "search_results" %}
+      <h2>Search Results</h2>
+      {% if results %}
+        <table border = "1">
+          <!-- Table as follows: Name|Addr|Served Monthly|EST|OwnerEmail-->
+        <tr> 
+          <td> <b>Foodbank Name</b></td> 
+          <td>Address</td> 
+          <td>Served Monthly</td> 
+          <td>Date Founded</td>
+          <td>Owner's Email</td>
+          <td>Amenities</td>
+        </tr>
+          {% for result in results %}
+          <tr> 
+            <td> {{ result['name'] }}</td> 
+            <td> {{ result['address'] }}</td>
+            <td> {{ result['pplservedmonthly'] }}</td>
+            <td> {{ result['datefounded'] }}</td>
+            <td> {{ result['owneremail'] }}</td>
+            <td> {{ result['description'] }}</td>
+          </tr>
+          {% endfor %}
+        </table>
+        <a href="{{ url_for('index') }}">Back to homepage</a>
+      {% else %}
+        No results found.
+        <br>
+        <br>
+        <a href="{{ url_for('index') }}">Back to homepage</a>
+        
+      
+      {% endif %}
+
+    {% elif step == "filter_results" %}
+      <h2>Filter Results</h2>
+      {% if results %}
+        <table border = "1"> 
+          {% for result in results %}
+            <tr>
+              <td> {{ result['name'] }}</td>
+              <td> {{ result['choice']}} </td>
+            </tr>
+          {% endfor %}
+          
+        </table>
+        <br>
+        <br>
+        <a href="{{ url_for('index') }}">Back to homepage</a>
+      {% else %}
+        No results found.
+        <br>
+        <br>
+        <a href="{{ url_for('index') }}">Back to homepage</a>
+      {% endif %}
+    {% endif %}
+  </body>
+</html>

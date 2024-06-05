@@ -1,0 +1,1001 @@
+foodbankID,foodbankAddress,glutenFree,halal,kosher,vegan,amount
+1,76 Sommers Lane,true,false,false,false,673
+2,775 Thierer Way,true,true,false,false,209
+3,57176 Dryden Avenue,false,false,false,true,393
+4,6210 Miller Street,false,false,false,true,761
+5,7793 Debra Crossing,false,true,true,false,928
+6,53 Corben Trail,false,false,true,true,374
+7,186 Forest Dale Terrace,false,true,true,false,837
+8,08156 Eggendart Circle,false,false,true,false,899
+9,2 Ludington Trail,false,true,true,true,364
+10,64 Derek Pass,true,false,true,true,481
+11,9280 Gerald Road,true,true,false,true,84
+12,6 Dryden Avenue,true,true,false,true,466
+13,8 Merry Street,false,false,false,false,662
+14,0 Little Fleur Lane,true,false,true,false,728
+15,302 Rieder Center,true,true,false,true,113
+16,60 Victoria Terrace,false,false,false,true,963
+17,22709 Fairview Trail,false,true,true,true,678
+18,4426 Atwood Alley,true,false,true,false,576
+19,709 Logan Drive,false,true,true,true,991
+20,15764 Prairie Rose Trail,false,true,false,false,792
+21,5 Laurel Court,false,true,true,false,338
+22,233 Ridgeway Place,false,true,true,true,567
+23,20 Lakewood Street,false,true,false,true,403
+24,3 Lakewood Gardens Street,false,false,false,true,844
+25,3263 Drewry Park,false,true,false,true,562
+26,0316 Darwin Junction,false,true,false,false,770
+27,4680 Vahlen Terrace,false,true,true,false,163
+28,9234 Dayton Road,true,false,true,true,935
+29,50 Hoffman Terrace,true,true,false,false,688
+30,08376 Grayhawk Court,false,false,false,true,911
+31,48815 Cardinal Court,true,false,false,true,360
+32,023 Scott Place,true,false,true,true,341
+33,59 Badeau Court,true,true,true,false,166
+34,33694 Schmedeman Alley,true,false,true,false,823
+35,41440 Stuart Plaza,true,false,true,false,633
+36,90 Laurel Place,true,false,false,true,99
+37,37 Karstens Drive,true,false,false,true,571
+38,806 Florence Point,true,true,false,false,161
+39,0945 Meadow Vale Street,false,false,true,true,337
+40,85 Waubesa Pass,false,false,true,false,739
+41,765 Rutledge Pass,true,false,true,false,114
+42,260 Sugar Trail,true,false,true,false,273
+43,547 Briar Crest Alley,true,true,false,false,666
+44,009 Florence Court,true,false,false,false,498
+45,6411 Acker Avenue,true,true,false,true,781
+46,0736 Trailsway Junction,false,false,false,true,865
+47,40 Monica Park,false,true,false,true,876
+48,66 Alpine Point,true,false,false,false,834
+49,70 Oakridge Trail,false,true,false,true,528
+50,112 Pearson Point,true,false,false,false,901
+51,0 Dottie Terrace,false,false,true,true,397
+52,81 Burrows Street,true,false,true,true,975
+53,8 Dawn Junction,true,true,false,true,587
+54,37 Hintze Lane,true,false,true,false,652
+55,849 Sunnyside Pass,true,false,false,false,500
+56,675 Northview Junction,true,true,false,false,395
+57,188 Duke Circle,false,true,true,true,920
+58,9437 Bonner Center,false,true,false,true,506
+59,95 Shoshone Trail,true,false,true,true,266
+60,6302 Burrows Center,false,true,true,false,126
+61,57690 Marquette Hill,false,false,false,false,610
+62,776 Jana Avenue,false,false,true,true,443
+63,0165 Pleasure Park,false,false,false,false,494
+64,322 Dunning Way,false,false,true,false,581
+65,852 Transport Plaza,false,false,false,true,678
+66,02 Hooker Drive,true,true,false,false,752
+67,8 Red Cloud Pass,true,false,false,true,50
+68,34834 Pond Point,false,false,false,false,114
+69,52915 Kenwood Center,false,false,false,true,123
+70,60 Cambridge Avenue,false,true,true,false,82
+71,824 Straubel Crossing,true,true,false,false,920
+72,5050 Red Cloud Road,false,true,false,false,9
+73,5728 Southridge Alley,true,false,false,false,423
+74,934 Waxwing Trail,true,true,false,true,324
+75,3135 Hudson Point,true,true,true,true,92
+76,52 Maryland Road,false,false,false,false,813
+77,2 Manley Circle,true,false,true,true,157
+78,0 Almo Trail,true,false,true,false,335
+79,99 Armistice Circle,false,false,false,false,212
+80,80166 Arizona Avenue,false,true,false,true,198
+81,40 2nd Avenue,false,false,false,false,847
+82,8 Cambridge Park,true,false,true,false,827
+83,20826 Westport Circle,true,true,false,false,127
+84,3723 Commercial Way,false,true,true,false,303
+85,8397 Melrose Point,true,false,true,true,232
+86,86430 Waywood Pass,false,true,false,true,358
+87,058 Morningstar Junction,true,false,false,false,488
+88,14 Scofield Pass,true,false,false,false,117
+89,164 Donald Hill,true,true,false,true,334
+90,9582 Raven Center,true,false,false,true,259
+91,4 Menomonie Center,false,true,false,true,473
+92,16 Independence Street,true,false,true,false,625
+93,112 Autumn Leaf Junction,false,false,true,false,497
+94,0317 Cody Circle,true,false,true,true,904
+95,47586 Clemons Lane,false,true,false,true,231
+96,67561 Golf Circle,true,true,false,true,777
+97,30668 Carioca Trail,false,true,false,true,332
+98,170 Beilfuss Junction,false,false,false,true,661
+99,99 Rieder Hill,true,false,false,true,362
+100,249 Doe Crossing Avenue,false,false,false,false,571
+101,1375 Mayfield Court,true,true,true,false,324
+102,3637 Swallow Drive,true,false,false,true,704
+103,2655 Macpherson Place,false,false,true,true,147
+104,572 Melrose Park,true,false,false,false,908
+105,52 3rd Crossing,true,false,true,false,84
+106,73 Roxbury Park,true,false,true,false,102
+107,998 Menomonie Street,false,false,false,false,584
+108,70029 Thompson Plaza,true,true,true,false,811
+109,80980 Kingsford Trail,false,false,false,true,59
+110,00 Scoville Trail,true,false,true,false,586
+111,75 Red Cloud Park,false,true,false,true,392
+112,34 Reindahl Junction,false,true,false,false,103
+113,58384 Pankratz Street,false,false,false,false,460
+114,985 Pearson Drive,false,true,false,false,938
+115,262 David Place,false,true,false,true,773
+116,5 Victoria Terrace,false,false,false,true,447
+117,472 Carioca Trail,false,true,true,false,567
+118,572 Dahle Park,true,true,false,true,146
+119,95 Ridge Oak Circle,false,false,false,false,807
+120,1497 Grasskamp Circle,true,true,false,false,861
+121,2790 Grasskamp Circle,false,false,false,false,504
+122,33 Randy Junction,true,true,true,false,478
+123,3549 Haas Point,false,false,false,false,809
+124,61298 Village Park,false,true,true,false,459
+125,3243 Luster Place,false,false,true,false,638
+126,2184 Huxley Junction,false,false,false,true,445
+127,779 Crowley Lane,true,true,true,false,513
+128,9892 Rutledge Center,false,false,true,true,21
+129,62 East Hill,true,true,true,true,351
+130,69624 Mandrake Hill,false,false,false,false,178
+131,112 Lakewood Gardens Lane,true,true,true,false,392
+132,91344 Clyde Gallagher Plaza,true,true,true,false,561
+133,856 Waxwing Alley,false,true,true,true,142
+134,80 Onsgard Park,false,true,false,false,695
+135,7 Eagan Center,true,true,true,true,550
+136,140 Waywood Pass,true,false,false,false,241
+137,7 Longview Hill,false,false,true,true,697
+138,11 8th Alley,false,true,true,false,900
+139,4599 Troy Park,true,true,true,true,142
+140,64795 Manley Park,true,false,true,true,15
+141,2 School Road,true,true,false,true,571
+142,68 Sloan Center,true,false,false,false,210
+143,32 North Circle,false,false,false,true,37
+144,4735 Hanover Road,true,true,false,true,412
+145,14 Esker Street,true,false,true,true,683
+146,465 Springview Circle,true,false,false,false,264
+147,16 Troy Drive,true,false,false,true,969
+148,2765 Springs Street,false,false,false,false,493
+149,0 Lindbergh Park,false,false,false,false,30
+150,531 Fulton Avenue,false,true,false,true,254
+151,504 Delaware Street,true,true,true,true,894
+152,8176 International Park,true,true,true,true,220
+153,46 Lukken Crossing,false,false,true,true,390
+154,776 Tony Point,false,false,true,false,694
+155,0 Kennedy Crossing,false,true,false,false,594
+156,3518 Hollow Ridge Lane,false,false,true,false,72
+157,0 Thompson Street,false,true,true,true,704
+158,3452 Eagan Pass,true,false,true,false,334
+159,05 Sunbrook Street,false,true,true,true,439
+160,37 Scofield Hill,true,false,false,true,380
+161,8351 Hintze Way,false,true,false,true,914
+162,85 Eggendart Avenue,true,false,true,true,796
+163,81 Bonner Junction,true,false,false,false,643
+164,22101 Fallview Junction,true,false,false,false,444
+165,40451 Becker Avenue,true,false,true,false,374
+166,52 Spaight Pass,true,false,false,true,85
+167,0388 Sycamore Crossing,true,true,true,false,707
+168,784 Merchant Plaza,false,false,true,false,141
+169,008 Meadow Vale Point,false,false,false,true,137
+170,06 Magdeline Lane,true,true,true,true,234
+171,02942 Old Shore Avenue,true,true,false,true,518
+172,47 Hagan Court,false,false,true,true,847
+173,25407 Corscot Drive,true,true,true,true,71
+174,6572 Hintze Road,true,true,false,true,757
+175,340 Golden Leaf Drive,false,true,false,false,378
+176,8403 East Center,true,true,true,true,465
+177,650 Hazelcrest Place,true,false,true,true,277
+178,79 Crest Line Circle,false,false,false,true,295
+179,02437 Ridgeview Court,false,true,false,false,817
+180,33 Elgar Court,true,true,false,true,208
+181,68269 Eagle Crest Trail,false,true,true,true,995
+182,3215 Talisman Park,false,false,true,false,982
+183,81459 Shasta Drive,true,false,true,false,222
+184,27162 Dunning Pass,true,true,false,false,208
+185,70480 Oak Valley Avenue,true,false,false,false,290
+186,60 Vera Park,false,false,false,true,853
+187,7 Hoard Point,false,false,true,true,544
+188,8 Bellgrove Lane,false,false,true,true,720
+189,22 Eastwood Road,false,true,false,false,658
+190,756 Garrison Avenue,true,true,false,true,438
+191,5023 Lunder Center,true,false,true,false,189
+192,56871 Iowa Trail,true,true,true,true,330
+193,37 Crownhardt Hill,false,true,false,false,847
+194,229 Dovetail Court,false,true,true,true,305
+195,10 Bluejay Avenue,false,true,true,true,679
+196,82747 Schiller Place,true,false,true,true,472
+197,6859 Forster Alley,true,false,true,true,867
+198,362 Doe Crossing Avenue,true,true,false,false,44
+199,24899 Dayton Way,true,true,true,false,488
+200,7358 Redwing Drive,false,false,true,false,565
+201,472 Corben Hill,false,true,false,true,270
+202,84591 Northwestern Pass,false,true,false,false,189
+203,41120 Green Ridge Circle,true,false,true,false,717
+204,709 Bartillon Parkway,true,false,false,false,672
+205,19495 Daystar Crossing,true,true,false,true,446
+206,10426 Melrose Place,false,false,true,false,621
+207,74582 Northridge Avenue,true,true,false,false,987
+208,81 Kim Alley,true,false,false,true,749
+209,3876 Corscot Circle,false,true,false,true,994
+210,4 Leroy Parkway,true,false,false,true,308
+211,37 Manley Way,false,false,true,true,194
+212,97058 Fairfield Terrace,true,false,true,true,797
+213,298 Elka Trail,true,true,false,false,719
+214,556 Dawn Circle,true,true,false,false,497
+215,61299 Anzinger Lane,false,true,false,true,193
+216,767 Hauk Way,false,true,false,false,428
+217,7 Mayer Circle,true,false,false,true,247
+218,37 Brickson Park Junction,true,false,true,false,981
+219,77506 Mariners Cove Trail,true,false,true,false,863
+220,5581 Lindbergh Crossing,true,true,true,true,986
+221,00 8th Crossing,false,false,true,true,285
+222,5925 Hermina Court,false,true,true,false,618
+223,96 Crowley Street,false,false,true,true,995
+224,70 Magdeline Alley,false,false,false,false,90
+225,6 Truax Avenue,true,true,true,true,669
+226,67950 Bonner Crossing,true,true,false,true,574
+227,6 Dorton Road,true,true,true,false,773
+228,15 Coleman Road,true,true,false,false,866
+229,10 Anderson Court,true,false,false,true,670
+230,52268 Bellgrove Crossing,false,true,false,true,248
+231,03 Fairview Plaza,true,false,true,true,18
+232,115 Cody Plaza,true,true,true,true,290
+233,30 Blackbird Alley,false,true,true,true,511
+234,314 Oriole Road,false,false,false,true,677
+235,00 Lakeland Road,true,true,true,true,179
+236,7227 Pleasure Pass,false,false,false,false,929
+237,50285 Meadow Ridge Avenue,false,true,true,false,698
+238,32 Butterfield Terrace,false,true,true,false,68
+239,69 Blue Bill Park Street,true,true,true,false,670
+240,9 Granby Park,true,false,true,false,63
+241,1593 Hazelcrest Park,false,true,true,false,733
+242,646 Walton Place,false,true,true,false,138
+243,24 Luster Parkway,true,false,false,true,606
+244,64243 Knutson Terrace,false,true,false,false,954
+245,8 Bellgrove Court,true,false,false,true,400
+246,09 Cherokee Lane,true,false,true,true,678
+247,2 Crowley Circle,false,false,false,true,646
+248,15 Rusk Crossing,false,true,true,false,179
+249,33257 Claremont Center,true,false,false,false,698
+250,216 Emmet Hill,false,false,false,true,406
+251,41 Forest Run Point,false,false,false,false,609
+252,4141 Aberg Trail,false,false,false,false,859
+253,2 Texas Crossing,false,false,false,false,357
+254,490 Mallory Lane,false,false,false,true,772
+255,7 Merchant Alley,true,true,true,true,397
+256,747 Artisan Terrace,true,true,true,true,930
+257,7927 Warrior Parkway,false,false,true,true,103
+258,8625 Utah Plaza,true,true,false,true,757
+259,61103 Chive Avenue,false,true,false,true,315
+260,2 Merry Drive,false,true,true,true,566
+261,9 Kim Drive,true,true,true,true,206
+262,31 High Crossing Lane,false,true,true,false,33
+263,738 Pepper Wood Terrace,true,false,false,true,564
+264,556 Holmberg Center,true,false,false,true,824
+265,0436 Monterey Park,false,false,false,true,438
+266,45 Bayside Way,false,true,false,true,89
+267,40450 Eagan Road,false,true,false,true,599
+268,2626 Derek Center,true,false,false,false,965
+269,170 Texas Terrace,true,false,false,true,528
+270,5 Northview Park,true,true,false,false,500
+271,9920 Ilene Pass,true,true,true,true,635
+272,69058 Harper Park,true,true,true,false,41
+273,7 Michigan Park,false,true,false,true,701
+274,9 Ilene Lane,true,false,true,false,708
+275,81 Independence Plaza,true,false,false,true,512
+276,72842 Wayridge Way,true,false,false,false,830
+277,9 Meadow Vale Hill,false,true,false,false,271
+278,0 Acker Hill,false,true,true,true,733
+279,5538 Messerschmidt Lane,true,true,false,false,125
+280,70 Gina Junction,false,false,false,true,62
+281,5056 Meadow Vale Pass,false,true,false,true,820
+282,0538 Sundown Point,true,true,true,false,808
+283,02 Kennedy Trail,true,false,true,true,410
+284,4188 Hollow Ridge Alley,false,false,false,true,304
+285,833 Waywood Center,false,true,true,true,403
+286,876 Hermina Road,false,false,false,false,201
+287,441 Bay Place,true,true,true,false,699
+288,481 Holy Cross Terrace,true,true,true,true,480
+289,88 Riverside Crossing,true,false,true,false,489
+290,17942 Kennedy Avenue,false,false,false,true,153
+291,53 Little Fleur Park,true,true,false,false,673
+292,425 Montana Court,false,true,true,false,378
+293,827 Vernon Avenue,false,true,true,false,396
+294,19546 Green Trail,true,true,true,true,336
+295,084 5th Terrace,true,true,true,false,688
+296,910 Continental Drive,true,false,true,false,34
+297,23691 Atwood Alley,true,false,false,true,756
+298,9877 Kensington Crossing,true,true,true,true,732
+299,250 Village Crossing,true,false,false,false,856
+300,4570 Petterle Center,true,true,true,false,174
+301,32197 Lake View Crossing,true,true,true,true,643
+302,36 Arizona Circle,false,true,false,false,531
+303,5837 Dixon Terrace,false,true,false,false,631
+304,27 Derek Crossing,true,false,false,false,379
+305,6 Thierer Way,false,true,false,false,834
+306,566 Esch Crossing,true,false,true,false,25
+307,17205 Oxford Terrace,false,true,true,false,996
+308,84 Upham Avenue,false,false,true,true,760
+309,06 Sullivan Street,false,false,true,true,109
+310,62440 Susan Street,false,true,false,false,92
+311,1 Waywood Terrace,false,true,false,true,418
+312,59878 Mifflin Way,false,false,false,true,680
+313,05769 Meadow Vale Drive,false,true,false,true,485
+314,81150 Garrison Court,true,true,true,false,937
+315,4 Banding Plaza,true,false,true,false,819
+316,3433 Little Fleur Crossing,false,false,false,false,418
+317,6491 Helena Center,false,true,false,true,901
+318,50 Lien Terrace,true,false,true,true,988
+319,50675 Thackeray Court,true,false,false,true,419
+320,6 Manley Hill,true,true,false,false,366
+321,46 Clyde Gallagher Avenue,false,false,false,false,408
+322,4084 Clyde Gallagher Point,true,false,true,false,677
+323,755 Elka Pass,true,true,false,true,704
+324,6 Butternut Place,false,false,false,false,388
+325,07184 Steensland Park,false,false,false,false,572
+326,5 Orin Point,false,false,true,false,305
+327,630 Bellgrove Terrace,false,false,false,true,862
+328,4945 Algoma Junction,true,false,true,true,293
+329,1992 Melrose Trail,false,false,false,true,420
+330,31961 Graceland Drive,false,true,false,false,182
+331,95 Quincy Crossing,false,true,true,true,918
+332,355 Valley Edge Point,true,false,false,false,690
+333,0915 Lyons Avenue,false,false,false,false,831
+334,9847 Mandrake Drive,false,true,true,false,332
+335,3 Mallard Park,false,false,true,false,517
+336,25 Gina Pass,true,false,true,true,236
+337,3498 Sundown Court,true,true,true,true,735
+338,914 Melody Center,false,false,true,false,610
+339,638 Toban Drive,false,false,false,false,805
+340,8 Union Terrace,false,false,false,false,340
+341,1 Saint Paul Way,false,true,true,true,609
+342,57 Hudson Pass,true,false,false,true,530
+343,3 Carioca Plaza,true,false,false,false,72
+344,25824 Talisman Terrace,false,false,false,false,125
+345,61799 Mallard Court,false,true,false,true,585
+346,18235 Golf Alley,true,false,false,true,262
+347,973 North Way,false,false,false,true,353
+348,47 Anzinger Plaza,false,true,false,false,217
+349,8822 Lakeland Road,true,false,false,false,254
+350,0 Commercial Pass,true,false,false,true,569
+351,6 Milwaukee Center,false,false,true,false,327
+352,882 Union Terrace,true,true,true,false,317
+353,80 Graedel Lane,false,false,false,false,547
+354,86275 Mallory Way,true,false,true,true,7
+355,614 Longview Court,false,true,false,false,702
+356,462 Eliot Road,false,true,false,true,784
+357,16575 Hauk Hill,true,true,true,false,39
+358,2665 Lerdahl Drive,false,true,false,true,269
+359,18510 Fallview Hill,true,true,true,false,776
+360,9389 Center Crossing,false,false,true,false,49
+361,07462 Rigney Avenue,true,true,false,false,135
+362,76 Sugar Place,true,true,true,false,374
+363,99407 Red Cloud Street,true,true,true,true,932
+364,1 Kings Way,true,true,false,false,56
+365,37753 Macpherson Hill,false,true,true,true,644
+366,709 Sachtjen Place,false,true,true,true,532
+367,49975 Shasta Circle,false,false,false,false,425
+368,6 Chinook Junction,false,true,false,false,820
+369,5 Stephen Court,false,false,true,false,996
+370,84 Little Fleur Circle,true,true,true,true,609
+371,0094 Garrison Junction,true,false,true,true,129
+372,8 Rigney Point,false,true,true,true,684
+373,82999 Fisk Plaza,true,false,false,true,847
+374,22776 Loftsgordon Lane,false,true,false,true,443
+375,291 Fordem Alley,true,true,false,true,480
+376,36235 Bluejay Way,true,true,false,true,483
+377,2358 Butterfield Terrace,false,false,false,false,33
+378,6 Independence Center,false,false,false,true,955
+379,88 Union Trail,false,true,false,false,898
+380,3 Ilene Road,true,true,true,true,657
+381,43 Victoria Way,false,false,true,true,570
+382,013 Arapahoe Street,true,false,false,false,815
+383,51 Swallow Street,false,false,true,true,135
+384,9 Fuller Road,true,true,true,true,266
+385,2 Linden Crossing,false,true,false,false,418
+386,7091 Onsgard Trail,false,true,true,false,220
+387,779 Cherokee Plaza,true,true,true,false,482
+388,77439 Glacier Hill Street,true,false,true,true,418
+389,5 Pine View Trail,false,true,false,true,165
+390,21857 Hoepker Drive,true,true,true,true,114
+391,02294 Clove Point,false,false,false,false,170
+392,96 Pierstorff Avenue,false,false,false,false,245
+393,57 Nova Park,false,false,false,false,608
+394,27304 Knutson Parkway,true,false,true,false,353
+395,36654 New Castle Court,true,true,false,false,507
+396,83778 Tony Hill,false,true,false,true,890
+397,94 Pearson Park,false,true,true,false,428
+398,5162 Pawling Street,true,false,false,true,170
+399,22468 Stephen Terrace,false,true,true,false,772
+400,96 Lake View Park,true,true,true,true,383
+401,30 Sugar Point,false,true,true,false,283
+402,64455 Red Cloud Terrace,false,true,true,true,842
+403,517 Utah Parkway,false,true,true,false,192
+404,1626 Elka Hill,false,false,false,true,45
+405,30 Barnett Circle,false,false,false,true,80
+406,44 Colorado Court,true,true,false,false,943
+407,6813 Birchwood Plaza,false,false,false,true,274
+408,0159 Becker Road,false,false,false,false,147
+409,38 Harper Lane,false,false,false,false,842
+410,72045 Reindahl Parkway,false,false,false,true,142
+411,9883 Magdeline Hill,false,true,false,true,371
+412,12999 Stang Trail,true,false,false,false,925
+413,38539 Rusk Alley,true,true,true,true,886
+414,09681 Susan Trail,false,true,false,true,817
+415,302 Dorton Terrace,false,false,true,true,10
+416,88587 Colorado Lane,false,false,true,true,135
+417,05485 Ridge Oak Point,true,false,true,false,7
+418,93 Maple Wood Terrace,true,true,true,true,889
+419,087 Onsgard Junction,false,true,true,true,764
+420,944 Maple Wood Street,false,true,true,false,419
+421,0 Bay Trail,false,true,false,false,862
+422,56104 Sugar Street,false,true,true,true,381
+423,37124 Calypso Center,false,true,false,false,813
+424,553 Linden Center,true,false,false,true,156
+425,73023 Grim Trail,true,true,true,true,451
+426,91 Charing Cross Center,true,true,true,false,387
+427,62470 Mendota Place,false,false,false,false,56
+428,847 Dahle Park,true,false,false,true,766
+429,7 Kings Pass,true,false,false,true,895
+430,6 Nevada Road,false,false,true,false,950
+431,98 Moland Alley,false,true,false,false,142
+432,97352 Gulseth Place,false,false,false,true,942
+433,4236 Stang Court,true,false,false,false,562
+434,38 Charing Cross Place,true,false,false,false,817
+435,444 Ridgeway Point,true,true,true,true,643
+436,15 Maple Circle,true,true,false,false,188
+437,0898 Glacier Hill Park,false,true,true,false,584
+438,44 Kedzie Center,true,true,true,false,632
+439,9324 Eastwood Court,false,false,false,true,781
+440,21114 Lindbergh Trail,true,true,false,false,644
+441,17 Grim Center,true,false,true,true,916
+442,730 Texas Lane,false,false,true,false,47
+443,1 Kim Alley,true,false,true,true,56
+444,9123 Thierer Circle,true,false,false,true,333
+445,0 Bluestem Park,false,false,false,false,49
+446,6055 Summer Ridge Point,false,false,true,false,613
+447,67 Mccormick Hill,false,false,false,true,553
+448,046 David Point,false,false,false,true,391
+449,4690 Del Mar Alley,false,false,false,false,241
+450,84 Gerald Court,false,false,false,false,728
+451,3775 Wayridge Drive,false,true,true,false,529
+452,6035 Mitchell Crossing,false,true,true,false,586
+453,19293 Clarendon Drive,false,false,true,false,722
+454,055 Kingsford Alley,true,false,true,true,854
+455,37617 Ilene Junction,false,true,true,false,409
+456,2030 Lakewood Gardens Pass,true,false,true,true,678
+457,1 Miller Place,true,true,true,true,888
+458,7 Hoepker Alley,false,true,false,false,71
+459,22 Kipling Lane,true,false,true,true,926
+460,894 Browning Circle,false,false,false,true,883
+461,9 5th Plaza,false,false,false,true,221
+462,8 Oneill Hill,false,true,false,false,523
+463,6 Lerdahl Trail,true,true,false,false,737
+464,5 Weeping Birch Way,false,false,true,false,451
+465,23 Hanover Plaza,true,true,false,true,910
+466,51 High Crossing Terrace,true,true,true,false,828
+467,5686 Springs Circle,true,true,true,true,684
+468,041 Declaration Terrace,true,false,true,false,31
+469,7 Ludington Circle,false,false,false,false,511
+470,137 8th Place,true,true,false,true,491
+471,5 Kingsford Alley,true,false,true,false,933
+472,43 Truax Plaza,false,false,true,true,348
+473,8082 Washington Hill,true,false,true,true,517
+474,60 Fair Oaks Point,false,false,false,false,758
+475,4271 Bobwhite Plaza,false,false,false,false,322
+476,749 Nancy Pass,true,true,false,false,141
+477,436 Pleasure Parkway,false,false,true,false,129
+478,33 Crowley Lane,true,true,true,false,584
+479,17889 Caliangt Plaza,true,false,true,false,497
+480,00975 Jana Circle,true,true,false,false,908
+481,68911 Golf Pass,true,false,false,false,192
+482,4 Forster Parkway,true,false,false,true,67
+483,76284 Lukken Point,true,false,true,true,141
+484,2 Brickson Park Hill,true,true,true,true,147
+485,699 Bonner Lane,false,true,true,true,106
+486,99263 Harbort Place,true,true,false,true,522
+487,3502 Park Meadow Lane,false,false,false,true,865
+488,6 Moulton Terrace,false,true,false,false,736
+489,0 Esch Parkway,true,true,true,true,407
+490,26 Wayridge Pass,false,false,false,false,891
+491,4 Kinsman Plaza,true,true,true,false,621
+492,7194 Bayside Lane,true,true,true,true,694
+493,7054 Talisman Lane,false,true,true,false,351
+494,60698 Logan Place,false,true,true,false,627
+495,2 Evergreen Way,false,false,false,false,230
+496,446 Commercial Alley,true,true,false,false,945
+497,06 Kingsford Lane,true,false,false,false,140
+498,3154 Lawn Hill,true,true,true,false,384
+499,0618 Russell Circle,true,true,true,false,623
+500,1681 Green Ridge Place,false,false,false,true,236
+501,8 Green Trail,false,false,false,false,816
+502,71 Russell Plaza,true,true,false,false,470
+503,428 Waxwing Alley,false,true,false,true,700
+504,51531 Chive Drive,true,false,false,false,939
+505,755 Manley Drive,true,true,true,false,895
+506,7132 Farwell Center,true,true,false,false,700
+507,1174 Stone Corner Drive,true,false,false,true,543
+508,482 Charing Cross Lane,false,false,false,true,649
+509,8344 Muir Junction,true,true,false,false,303
+510,7 Boyd Crossing,false,true,false,true,180
+511,59 Bartelt Parkway,true,true,false,false,973
+512,50833 Sachs Way,true,false,false,false,416
+513,97132 Meadow Vale Way,false,false,false,false,505
+514,9763 Dexter Hill,true,false,false,true,905
+515,8930 Manley Center,false,true,false,true,656
+516,572 Moose Lane,false,true,true,false,228
+517,7643 Valley Edge Park,true,false,false,false,865
+518,945 Gale Parkway,true,false,false,false,539
+519,14 Merry Terrace,false,false,true,true,321
+520,89 New Castle Junction,false,true,true,true,396
+521,36 Little Fleur Court,false,true,true,false,761
+522,657 Alpine Circle,true,false,true,true,275
+523,5 Carioca Park,false,false,false,true,615
+524,076 Monterey Plaza,false,true,false,false,832
+525,352 Jay Plaza,true,true,false,false,99
+526,21556 Ludington Street,false,true,false,false,711
+527,45488 Maple Way,true,false,true,true,223
+528,58249 Ohio Junction,true,false,true,true,125
+529,40 Del Sol Trail,false,true,false,false,343
+530,0 Mcbride Hill,true,true,false,false,966
+531,9 Darwin Street,false,true,false,true,91
+532,77315 Pine View Street,true,true,true,false,21
+533,22318 Service Street,false,false,true,true,440
+534,8638 Pierstorff Trail,true,true,false,true,108
+535,9 Buena Vista Terrace,true,true,false,false,306
+536,66810 2nd Street,true,false,false,false,487
+537,27 Duke Drive,true,true,false,true,908
+538,440 Hagan Road,false,false,false,true,48
+539,5261 Milwaukee Street,true,true,false,true,722
+540,3151 Everett Alley,false,true,false,true,945
+541,68 Sundown Road,false,false,false,true,200
+542,3 Dottie Street,false,false,false,false,789
+543,66 Luster Junction,true,false,false,true,879
+544,74254 Coleman Alley,true,false,false,true,869
+545,44 High Crossing Circle,false,true,true,true,697
+546,79270 Farmco Place,false,false,true,true,660
+547,2 Elmside Avenue,true,true,false,true,177
+548,4781 Hauk Alley,true,false,true,false,123
+549,942 Elka Road,true,false,false,false,576
+550,2 Barby Place,true,true,false,true,850
+551,12 Starling Plaza,true,false,false,false,739
+552,9292 Moose Court,false,false,false,true,847
+553,4 Carey Trail,false,true,false,false,379
+554,19333 Orin Place,false,false,false,true,573
+555,8370 Oakridge Hill,true,true,true,true,955
+556,034 Brown Plaza,false,false,true,true,677
+557,5386 Barnett Court,false,false,false,true,523
+558,14 Hayes Road,true,true,false,true,271
+559,67 Brown Street,false,true,true,true,866
+560,8391 Scott Road,false,false,false,false,30
+561,45962 Marquette Plaza,true,true,true,false,120
+562,9 Lawn Drive,true,true,false,true,606
+563,47 Bartelt Parkway,true,false,true,false,974
+564,50 Village Green Avenue,true,false,false,false,951
+565,27 Rockefeller Road,false,false,false,true,209
+566,0579 Hollow Ridge Lane,false,false,true,true,805
+567,509 Bellgrove Place,true,true,false,true,733
+568,439 Mockingbird Way,true,false,false,false,938
+569,89019 Stephen Road,true,false,false,true,774
+570,2439 Veith Point,false,false,false,true,229
+571,8 Northridge Drive,true,true,true,true,946
+572,0 Anzinger Court,false,true,true,true,405
+573,12 Canary Avenue,true,false,false,false,127
+574,78 Oneill Park,false,false,true,true,168
+575,51 Larry Court,false,false,false,true,365
+576,40 Hansons Alley,true,true,true,false,221
+577,67495 7th Alley,true,true,true,false,564
+578,44 Center Pass,false,true,true,false,193
+579,53 Stephen Parkway,false,true,false,true,545
+580,57090 Buena Vista Center,true,false,false,true,649
+581,78 Eliot Street,true,true,true,true,470
+582,4 Hintze Place,true,true,true,false,537
+583,116 Village Center,false,true,false,false,588
+584,028 Swallow Point,true,true,true,true,487
+585,087 Schurz Pass,false,false,true,true,458
+586,88977 Lakewood Gardens Street,false,false,true,false,997
+587,765 Badeau Park,true,false,true,true,826
+588,9 Victoria Drive,true,false,true,false,627
+589,77 Eagan Parkway,true,false,true,false,603
+590,13 Lakewood Gardens Park,true,true,true,true,303
+591,51 Melrose Avenue,false,true,true,false,717
+592,87286 Norway Maple Center,false,true,false,true,45
+593,5432 Monica Point,true,true,true,true,422
+594,3 Loftsgordon Drive,false,false,true,true,578
+595,9 Carey Road,false,false,false,false,51
+596,326 Fieldstone Lane,false,true,true,false,754
+597,7 Kinsman Junction,true,false,false,true,85
+598,3 Morningstar Trail,false,false,true,false,873
+599,99 Commercial Park,false,false,true,false,188
+600,9412 Cordelia Drive,true,true,false,true,629
+601,00 Dapin Trail,true,true,true,true,76
+602,33723 Commercial Junction,false,false,true,true,171
+603,17061 Loftsgordon Pass,true,false,false,true,989
+604,3075 Riverside Street,false,true,false,true,727
+605,95206 3rd Parkway,false,true,true,true,563
+606,96 Old Shore Hill,false,false,false,false,290
+607,782 Chinook Center,false,true,false,true,601
+608,642 Eggendart Junction,false,false,false,true,900
+609,982 Graceland Avenue,true,false,false,false,817
+610,7500 Tony Hill,true,false,true,true,159
+611,0 Badeau Point,false,true,false,true,278
+612,007 Ryan Trail,false,true,true,false,493
+613,2 Welch Street,false,false,false,false,534
+614,8129 Bultman Point,true,true,false,false,795
+615,9 Maple Wood Court,false,true,false,true,491
+616,7951 Lakeland Way,true,false,true,false,366
+617,7582 Maple Wood Terrace,true,false,true,false,359
+618,809 Bunker Hill Place,true,true,true,false,263
+619,0967 Forest Dale Parkway,true,false,false,true,652
+620,37283 Vera Way,false,true,false,true,9
+621,5518 Starling Alley,true,true,false,true,269
+622,836 Pierstorff Junction,true,true,true,false,139
+623,7554 Fuller Street,true,true,true,false,745
+624,4 Sheridan Way,true,false,true,false,739
+625,94 West Place,false,false,false,false,130
+626,4093 Cambridge Park,false,false,false,false,367
+627,48 Redwing Junction,false,true,true,false,542
+628,28519 Rigney Way,true,false,false,true,117
+629,74 7th Drive,true,true,false,false,86
+630,8572 Pine View Avenue,false,false,false,false,842
+631,49138 Ridge Oak Parkway,true,false,true,true,331
+632,51 School Plaza,false,false,true,false,228
+633,8534 Elmside Hill,false,false,false,true,208
+634,371 Onsgard Point,true,true,false,false,411
+635,9 Fallview Drive,false,true,true,false,517
+636,563 Blue Bill Park Place,true,false,false,false,380
+637,7017 Charing Cross Drive,false,true,true,false,293
+638,3696 Lerdahl Lane,false,true,false,true,860
+639,91 Sunnyside Road,true,true,false,true,790
+640,4 Briar Crest Center,true,false,false,true,26
+641,7523 Sauthoff Alley,false,true,true,true,965
+642,62224 Marquette Crossing,true,true,false,true,360
+643,8 Kinsman Way,true,true,true,true,20
+644,36837 Gina Place,false,true,true,false,401
+645,59172 Ridgeway Terrace,true,true,true,true,339
+646,3591 Vera Trail,false,false,false,false,58
+647,70988 Blue Bill Park Terrace,true,false,true,true,501
+648,420 Menomonie Hill,false,false,true,true,300
+649,78568 Bluestem Alley,false,false,false,false,787
+650,7 Shasta Plaza,true,true,false,false,324
+651,8 Schurz Drive,true,true,true,false,308
+652,3 Coleman Street,true,false,true,true,783
+653,434 Swallow Court,true,false,false,true,632
+654,9 Del Mar Alley,true,true,false,true,971
+655,7098 Golf View Plaza,false,false,false,false,101
+656,27 Holmberg Pass,false,false,false,false,859
+657,18 Longview Plaza,true,true,false,true,146
+658,97 Rigney Road,true,false,true,false,769
+659,859 Gateway Lane,true,true,false,false,20
+660,9103 Utah Lane,false,true,true,true,780
+661,05 Londonderry Circle,true,true,false,false,899
+662,480 Morning Street,true,true,true,false,231
+663,32878 Saint Paul Road,true,false,false,false,895
+664,9583 Farwell Alley,false,true,true,false,820
+665,6181 School Avenue,true,false,true,false,209
+666,15355 Claremont Circle,false,true,false,true,203
+667,6 Maple Hill,true,false,false,true,32
+668,1555 3rd Road,false,true,true,false,262
+669,7202 Algoma Street,true,true,false,false,128
+670,13987 Reindahl Hill,true,true,false,true,18
+671,41 Crescent Oaks Lane,false,true,true,true,380
+672,9685 Lindbergh Terrace,false,true,true,false,130
+673,18261 Declaration Junction,false,false,false,false,322
+674,20 Park Meadow Circle,true,false,false,true,77
+675,8131 Melvin Road,false,false,true,true,783
+676,22 Sugar Pass,false,false,true,true,816
+677,079 Arizona Center,false,false,false,true,472
+678,4 Manley Lane,false,false,false,true,695
+679,42035 Mendota Place,false,true,false,true,951
+680,0 Scott Avenue,false,true,true,false,465
+681,66 Elka Drive,false,false,false,true,795
+682,231 Forest Street,false,false,true,true,308
+683,3538 Mockingbird Place,false,false,false,false,932
+684,63088 Waywood Lane,true,false,false,false,306
+685,88928 Corscot Road,true,true,false,true,8
+686,18 Almo Park,false,false,false,true,359
+687,572 Hauk Court,false,true,false,true,767
+688,2251 Straubel Avenue,true,false,true,true,88
+689,23641 Helena Way,false,true,false,false,660
+690,5 Meadow Vale Place,true,false,false,true,264
+691,42 Lawn Road,false,true,false,true,219
+692,8601 Northwestern Place,false,true,true,false,813
+693,03 Schurz Lane,false,false,false,true,675
+694,4677 Bowman Crossing,true,true,false,false,307
+695,712 Buell Circle,true,true,true,false,535
+696,3 Cascade Parkway,true,true,false,false,57
+697,5 Macpherson Way,false,true,true,false,299
+698,052 Westerfield Hill,false,false,true,false,265
+699,502 Jenna Parkway,true,false,true,false,68
+700,4095 Eliot Junction,false,true,false,true,241
+701,63149 Hoepker Avenue,true,false,true,true,650
+702,651 Cherokee Drive,false,false,false,true,67
+703,4 3rd Drive,false,false,false,true,452
+704,8893 Truax Terrace,true,false,false,false,234
+705,19896 Evergreen Junction,false,false,false,false,425
+706,4025 Lindbergh Crossing,true,true,false,true,324
+707,65 Schurz Terrace,true,false,false,false,438
+708,404 Lake View Circle,false,true,false,true,831
+709,6 Kim Crossing,true,false,false,true,47
+710,51940 New Castle Street,false,true,true,false,666
+711,901 Lakewood Junction,false,true,true,false,354
+712,889 Manitowish Parkway,false,true,true,false,574
+713,652 Sunnyside Plaza,false,true,true,false,977
+714,41658 Sundown Alley,true,true,false,true,864
+715,972 Graedel Way,false,false,true,false,561
+716,13812 Grim Drive,true,false,true,false,377
+717,15 Schmedeman Court,true,false,true,false,195
+718,88 Dryden Drive,false,true,false,true,567
+719,028 Thackeray Way,false,true,true,false,70
+720,4 Hauk Parkway,true,false,false,true,433
+721,900 Crowley Terrace,false,false,true,true,460
+722,413 Schlimgen Park,false,false,true,true,248
+723,21 Carpenter Center,true,true,false,true,890
+724,605 Bowman Crossing,false,true,true,false,988
+725,63921 Pierstorff Way,true,true,true,true,187
+726,2 Graceland Pass,false,false,true,false,714
+727,549 Drewry Center,false,false,false,true,953
+728,98884 Stone Corner Center,true,true,true,true,332
+729,4 Nobel Pass,true,false,true,false,653
+730,0 Starling Center,false,true,true,false,339
+731,7653 Russell Street,true,true,true,false,76
+732,91722 Sutherland Place,false,true,true,false,649
+733,6 Hoard Terrace,false,false,false,true,731
+734,602 Bunting Circle,false,true,false,true,268
+735,0 New Castle Pass,false,true,false,true,454
+736,5 Hoepker Way,false,false,true,false,828
+737,0 7th Road,true,true,true,false,357
+738,37 Hooker Junction,true,false,true,true,640
+739,158 Esch Junction,true,true,true,true,833
+740,2 Del Sol Place,true,true,false,true,247
+741,40 Kipling Center,false,true,true,false,725
+742,6717 Lien Parkway,false,false,true,true,31
+743,269 Cascade Avenue,true,false,true,false,5
+744,20554 Carberry Trail,true,true,true,true,598
+745,0 Anzinger Place,true,true,false,false,884
+746,7 Walton Junction,false,false,false,true,513
+747,61 Homewood Avenue,true,true,true,true,63
+748,8574 Calypso Circle,false,true,false,false,491
+749,03 Manitowish Trail,true,true,true,true,254
+750,18 Farragut Avenue,true,false,true,true,728
+751,58 Paget Alley,false,false,false,false,49
+752,804 Reindahl Crossing,true,true,false,true,232
+753,5699 Judy Terrace,false,false,true,true,407
+754,996 Coolidge Junction,true,true,false,true,279
+755,96 Gulseth Drive,true,true,true,true,408
+756,410 Riverside Hill,true,false,false,false,45
+757,9 Judy Center,true,true,true,true,653
+758,82 Northwestern Street,false,false,false,false,201
+759,9 Annamark Court,false,true,false,false,542
+760,1 Colorado Circle,true,false,false,true,522
+761,4 Mayfield Way,true,true,true,true,279
+762,76433 Crownhardt Court,true,false,true,true,146
+763,20 Arizona Lane,true,false,false,true,52
+764,5 Barby Lane,true,false,true,true,534
+765,14983 Esch Way,true,true,true,false,730
+766,739 Esch Avenue,true,false,false,true,636
+767,242 Butternut Court,true,true,false,false,184
+768,01574 Park Meadow Place,false,true,false,false,441
+769,120 Crest Line Street,false,false,false,false,526
+770,702 Sutteridge Way,false,false,true,true,324
+771,429 Hazelcrest Way,true,true,true,false,198
+772,67 Ramsey Crossing,false,false,true,false,675
+773,187 Shopko Parkway,true,false,false,false,705
+774,972 Manley Court,false,true,false,false,496
+775,939 Buhler Drive,true,true,true,true,781
+776,8285 Gale Circle,false,false,true,true,923
+777,601 Eastwood Crossing,true,false,false,false,62
+778,08491 Macpherson Crossing,false,false,false,false,716
+779,71 Westerfield Pass,false,false,true,true,299
+780,013 Forest Dale Way,true,true,false,false,973
+781,47 Laurel Crossing,true,false,true,false,109
+782,77 Pine View Plaza,true,true,true,true,942
+783,1 Rigney Avenue,true,false,true,false,692
+784,48 Del Sol Junction,true,true,true,true,236
+785,095 Loomis Point,false,false,false,true,221
+786,9 Riverside Park,false,true,true,true,503
+787,044 High Crossing Place,false,true,true,false,240
+788,8363 Meadow Valley Pass,false,false,true,true,682
+789,473 Waxwing Terrace,false,false,true,false,895
+790,43 Riverside Center,false,false,false,false,121
+791,38914 Nelson Lane,false,false,false,true,52
+792,6685 Debra Lane,false,false,false,true,35
+793,4 Cottonwood Circle,true,true,true,true,522
+794,5 Express Circle,true,false,true,true,350
+795,33 Schmedeman Pass,true,false,true,false,996
+796,97502 Columbus Road,false,true,false,false,126
+797,054 Becker Lane,true,true,true,false,147
+798,0844 Sommers Way,false,true,true,false,536
+799,1 Melrose Hill,false,true,false,true,263
+800,91 Quincy Place,false,true,false,false,269
+801,53 Katie Trail,true,true,true,true,264
+802,4746 Grim Circle,false,false,true,true,485
+803,0261 Londonderry Crossing,true,true,true,true,289
+804,75401 Nelson Parkway,false,true,true,false,530
+805,728 Eliot Drive,true,false,false,true,13
+806,26 Sachs Way,false,false,true,true,632
+807,913 Porter Pass,false,false,false,true,517
+808,8 Donald Trail,true,false,false,true,331
+809,9 Crescent Oaks Crossing,false,true,true,false,202
+810,64 South Terrace,false,true,true,true,971
+811,7441 Drewry Lane,true,false,true,true,971
+812,45967 Oakridge Pass,false,true,false,true,218
+813,1547 Katie Drive,true,false,false,true,534
+814,08 Paget Road,false,false,false,false,358
+815,1 Hintze Junction,false,true,false,false,41
+816,96 Village Parkway,true,true,true,false,859
+817,368 Blue Bill Park Avenue,true,false,true,true,792
+818,4164 Duke Plaza,true,false,true,true,701
+819,09 New Castle Court,true,true,true,false,337
+820,31 Rockefeller Parkway,true,true,false,false,932
+821,9 Stone Corner Crossing,false,true,false,true,300
+822,519 Steensland Pass,true,true,true,false,689
+823,40263 Barnett Court,false,false,false,false,879
+824,43 Meadow Vale Circle,true,false,false,true,455
+825,40 Sheridan Center,true,true,false,true,871
+826,19 Loftsgordon Road,false,false,false,false,735
+827,37710 Steensland Circle,true,true,true,false,463
+828,5 Oakridge Park,true,false,false,true,278
+829,1034 Chive Street,false,false,false,true,781
+830,69442 6th Hill,false,false,false,true,15
+831,43106 Clyde Gallagher Park,true,false,false,true,176
+832,204 Village Crossing,false,true,true,true,531
+833,617 Katie Point,true,false,true,false,86
+834,43928 Texas Lane,false,true,false,false,378
+835,158 Fremont Lane,false,false,false,true,131
+836,80 Marquette Plaza,true,true,false,true,80
+837,087 Cottonwood Trail,false,false,true,false,873
+838,40 Shasta Alley,false,true,false,false,968
+839,9 Nelson Trail,true,true,true,false,224
+840,18609 Arkansas Lane,false,true,true,false,246
+841,0258 Drewry Road,false,true,false,true,638
+842,3236 Mockingbird Way,false,false,false,true,70
+843,29 Brickson Park Lane,true,false,true,true,369
+844,6841 Briar Crest Junction,true,false,false,false,449
+845,3 Carpenter Avenue,true,false,true,false,208
+846,68 Gateway Place,false,false,true,false,132
+847,3 Express Park,true,true,true,true,280
+848,925 Northridge Hill,false,true,true,true,180
+849,92 Meadow Valley Center,false,true,false,false,127
+850,3 Arapahoe Terrace,false,true,true,false,534
+851,9030 Morrow Pass,false,true,false,true,848
+852,30177 Donald Plaza,false,true,true,false,519
+853,7 Loftsgordon Drive,true,true,false,false,643
+854,5664 Shasta Place,false,true,false,true,886
+855,27965 Rowland Lane,false,false,true,true,772
+856,550 Messerschmidt Road,true,false,true,false,246
+857,8 Magdeline Parkway,false,false,false,true,352
+858,4 Emmet Drive,false,true,true,false,558
+859,7823 Prairieview Terrace,true,true,false,false,774
+860,06 Westport Parkway,true,false,true,true,245
+861,7 Jackson Pass,true,false,true,false,476
+862,85 Clyde Gallagher Drive,true,false,true,false,906
+863,6866 Fisk Plaza,false,true,true,false,100
+864,14492 Golf Course Way,true,false,false,true,466
+865,2 Truax Hill,false,false,false,true,224
+866,200 Washington Junction,true,false,true,true,110
+867,65 Bunting Center,false,true,false,false,134
+868,52727 Acker Trail,true,false,true,true,657
+869,681 Springview Terrace,false,true,true,true,250
+870,47 Warner Court,false,true,true,true,699
+871,307 Continental Junction,true,false,true,true,494
+872,20945 Clemons Lane,true,true,false,false,718
+873,499 Surrey Alley,false,true,false,false,429
+874,1 Hauk Lane,false,false,true,false,555
+875,10110 Aberg Avenue,true,false,true,false,778
+876,00 Summerview Plaza,false,true,true,false,93
+877,203 Clove Hill,true,true,true,false,162
+878,4 Duke Pass,true,true,false,true,266
+879,821 Pennsylvania Hill,true,false,false,false,539
+880,739 Clemons Junction,true,true,false,true,796
+881,8 Talmadge Point,false,false,false,true,688
+882,4 Mcguire Lane,true,true,false,false,342
+883,4251 Melvin Park,true,false,false,true,227
+884,111 Hazelcrest Court,false,true,false,true,903
+885,43 Randy Way,false,true,false,false,606
+886,75393 Shoshone Road,false,true,true,false,613
+887,895 Ridgeway Place,false,true,true,false,697
+888,3 Pierstorff Crossing,false,false,false,true,561
+889,47 4th Alley,true,false,false,false,454
+890,40489 Corben Point,true,false,false,false,713
+891,0973 Grover Avenue,false,true,true,false,134
+892,4816 Logan Crossing,false,true,false,true,813
+893,0 Kings Road,false,true,true,false,251
+894,911 Cambridge Street,false,true,true,false,394
+895,61227 Fieldstone Junction,true,true,false,true,252
+896,8760 Atwood Parkway,true,false,false,true,127
+897,94496 Pepper Wood Road,false,false,false,true,897
+898,9 Pennsylvania Court,true,true,true,false,60
+899,5 Sage Crossing,false,false,false,true,96
+900,69055 Scoville Alley,true,false,true,false,871
+901,7 Clove Hill,true,true,true,false,91
+902,57 Sachs Hill,false,true,false,true,897
+903,2 Glacier Hill Avenue,true,true,true,true,705
+904,68 Bellgrove Parkway,true,false,false,false,541
+905,1 Menomonie Park,true,false,true,false,629
+906,261 Summit Plaza,true,false,true,false,431
+907,54 Lakewood Gardens Pass,true,false,true,true,11
+908,9090 New Castle Court,true,true,false,true,522
+909,04010 Debra Crossing,false,true,false,true,415
+910,27415 Russell Park,false,true,false,false,793
+911,3 Moose Court,false,true,false,false,21
+912,2254 Jay Trail,false,true,false,true,131
+913,6105 8th Parkway,true,false,false,false,472
+914,9111 Vidon Way,true,false,true,false,90
+915,67 Artisan Center,false,false,false,true,467
+916,59782 Cascade Street,false,true,true,false,709
+917,1 Grim Terrace,false,false,true,true,279
+918,3058 Old Shore Road,false,true,true,true,794
+919,300 Towne Terrace,true,true,true,false,861
+920,85 Crescent Oaks Road,false,true,true,false,595
+921,093 Nobel Drive,false,true,true,true,632
+922,66 Lighthouse Bay Alley,false,false,false,true,739
+923,07 Marquette Place,false,false,false,true,217
+924,3349 Melrose Lane,true,false,true,true,929
+925,12495 Luster Place,false,true,false,false,729
+926,3223 Summerview Point,true,false,true,false,184
+927,5 Raven Point,false,false,true,true,250
+928,627 Briar Crest Plaza,false,false,true,false,962
+929,5 Schiller Lane,false,false,true,true,398
+930,3 Spenser Road,false,true,true,false,395
+931,8 Hermina Park,true,false,true,true,646
+932,01558 Myrtle Plaza,true,false,false,true,853
+933,357 Onsgard Way,false,false,true,true,290
+934,51 Anniversary Circle,true,false,true,true,472
+935,27 Cardinal Point,true,true,true,true,79
+936,53710 Iowa Court,false,false,false,true,727
+937,46 Doe Crossing Crossing,false,false,true,false,580
+938,58 Eagan Crossing,true,true,true,false,785
+939,49 Mayer Park,false,false,true,false,291
+940,478 Graceland Alley,true,false,true,false,206
+941,6885 Sachtjen Terrace,true,true,false,false,220
+942,215 Stuart Pass,true,false,false,false,689
+943,7 Duke Hill,false,false,false,true,320
+944,69092 Doe Crossing Junction,false,true,true,true,731
+945,420 Maryland Hill,true,false,true,true,55
+946,70 Eastlawn Point,true,false,true,true,40
+947,1882 Canary Center,false,false,false,true,707
+948,11 Glacier Hill Center,false,false,false,true,938
+949,947 Starling Junction,true,false,true,true,924
+950,78 Schiller Circle,true,false,false,true,528
+951,62 Hermina Park,true,true,false,true,771
+952,38 Corscot Center,false,true,false,true,201
+953,617 Beilfuss Court,true,false,true,false,940
+954,6 Helena Junction,true,true,false,true,294
+955,8865 Eastwood Plaza,false,true,false,true,228
+956,5 Golf View Court,true,true,false,true,219
+957,73098 Everett Lane,true,true,false,false,407
+958,891 Parkside Center,true,true,true,false,341
+959,66244 Marcy Crossing,false,false,true,false,647
+960,944 Kim Way,false,false,false,true,843
+961,1 Village Way,true,false,false,false,333
+962,2 Lindbergh Street,false,true,false,true,54
+963,94561 Northland Way,false,false,true,false,66
+964,5853 Schurz Junction,true,true,false,false,310
+965,94447 Pond Road,true,false,true,false,374
+966,10 Cottonwood Crossing,true,true,false,false,359
+967,97352 Ohio Road,false,true,true,false,685
+968,1 Warrior Point,false,false,false,true,352
+969,87452 Susan Center,true,false,false,false,460
+970,95 Veith Alley,false,true,true,false,922
+971,37 Fieldstone Lane,true,false,false,false,455
+972,30 Namekagon Street,true,true,true,false,994
+973,52229 Mallory Alley,true,true,false,false,286
+974,400 Sachs Court,false,true,false,true,741
+975,7 Glacier Hill Street,true,true,true,true,307
+976,74419 Charing Cross Drive,true,true,false,false,710
+977,23355 Hanson Pass,true,false,false,false,362
+978,80090 Shelley Point,true,false,false,false,876
+979,4087 Spenser Street,true,true,true,true,754
+980,76 Bayside Parkway,true,true,true,false,174
+981,068 Menomonie Junction,false,false,false,true,391
+982,3307 Kings Hill,false,true,true,true,609
+983,96 Reinke Park,true,true,false,false,518
+984,02 Weeping Birch Court,false,false,false,true,233
+985,09146 Upham Avenue,true,true,true,true,80
+986,501 Mallard Terrace,true,true,false,true,328
+987,6856 Bellgrove Plaza,true,false,true,false,607
+988,38 Mandrake Drive,true,true,false,false,597
+989,80979 Forest Road,false,false,true,true,753
+990,0588 Manitowish Hill,false,false,false,false,887
+991,8069 Daystar Road,true,false,false,false,159
+992,50 Sugar Crossing,false,true,false,false,438
+993,00 Raven Way,false,false,true,false,956
+994,597 Crowley Road,true,true,true,false,767
+995,7183 Ridgeway Avenue,true,false,false,true,367
+996,32 Muir Pass,false,true,false,false,405
+997,3 Scott Place,true,true,false,true,172
+998,15952 Algoma Junction,false,false,false,false,431
+999,4 Mifflin Road,true,true,true,false,454
+1000,0337 Cardinal Drive,true,true,true,true,804

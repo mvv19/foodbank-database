@@ -1,0 +1,49 @@
+<html>
+  <head>
+      <title>Database</title>
+    <style>
+      h1 {
+        margin-top: 50px;
+        margin-left : 10px;
+        font-family: Garamond, serif;
+
+      }
+      p {
+        font-size: 24px;
+        font-family: Garamond, serif;
+        margin-left: 20px;
+      }
+      body {
+      font-family: Garamond, serif;
+      background-color : #FDF7EF;
+      text-align: center;
+      }
+      ul {
+        text-align: center;
+      }
+
+
+    </style>
+  </head>
+<body>
+  <h1>Volunteer Page</h1>
+  <hr>
+  <p><b>What do you want to do?</b></p>
+
+  <ul>
+    <li><a href="{{ url_for('volsignup') }}">Sign Up to Volunteer at one of our database's foodbanks!</a>
+
+    <li><a href="{{ url_for('volhours') }}">Log Volunteer Hours! </a>  
+    <li><a href="{{ url_for('hourslogged') }}">See how many hours you have logged!
+    <li> <a href= "{{ url_for('removevol') }}"> Delete Volunteer Profile. </li>
+</a> 
+    <br >
+    
+    <hr>
+    <li></li><a href="{{ url_for('index') }}">Back to homepage</a>
+  </ul>
+
+  
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<html>
+  <head>
+      <title>Delete an entry</title>
+    <style>
+      h1 {
+        margin-top: 50px;
+        margin-left : 10px;
+        font-family: Garamond, serif;
+
+      }
+      p {
+        font-size: 24px;
+        font-family: Garamond, serif;
+        margin-left: 20px;
+      }
+      body {
+      font-family: Garamond, serif;
+      background-color : #FDF7EF;
+      text-align: center;
+      }
+      ul {
+        text-align: center;
+      }
+
+
+    </style>
+  </head>
+<body>
+  <h1>Delete an entry</h1>
+  {% if step == "display_entries" %}
+      {% if entries|length > 0 %}
+          Choose an entry to edit:
+          <form action="{{ url_for('removevol') }}" method="post">
+          <table border="1">
+          <tr><td></td><td>Date</td><td>Title</td></tr>
+          {% for entry in entries %}
+              <tr>
+                  <td><input type="radio" name="postid" value="{{ entry.id }}"></td>
+                  <td>{{ entry.lastname }}</td>
+                  <td>{{ entry.firstname }}</td>
+                  <td>{{ entry.email }}</td>
+              </tr>
+            {% endfor %}
+
+          </table>
+          <input type="hidden" name="step" value="delete_entry">
+          <input type="submit">
+          </form>
+      {% else %}
+          There are no Volunteers.
+          <p>
+          <a href="{{ url_for('index') }}">Back to homepage</a>
+      {% endif %}
+
+  {% elif step == "delete_entry" %}
+      Entry has been deleted.
+      <p>
+      <a href="{{ url_for('index') }}">Back to homepage</a>
+  {% endif %}
+</body>
+</html>

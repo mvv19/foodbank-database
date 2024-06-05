@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>Database</title>
+      <style>
+        h1 {
+          margin-top: 50px;
+          margin-left : 10px;
+          font-family: Garamond, serif;
+
+        }
+        p {
+          font-size: 24px;
+          font-family: Garamond, serif;
+          margin-left: 20px;
+        }
+        body {
+        font-family: Garamond, serif;
+        background-color : #FDF7EF;
+        text-align: center;
+        } 
+        ul {
+          text-align: center;
+        }
+
+      
+      </style>
+    </head>
+<body>
+    <h1>Database Homepage</h1>
+    <hr>
+    <p><b>Database Functions:</b></p>
+
+    <ul>
+      <li><a href="{{ url_for('browse') }}">Browse staff directory</a>
+
+      <li><a href="{{ url_for('volunteerhome') }}">Volunteer Hub</a> 
+        
+          <!--maybe put inside of the vol signup form -->
+  
+
+        <li><a href="{{ url_for('bankfilter') }}">Search for a specific foodbank</a>
+        <li><a href="{{ url_for('review') }}">Write a review</a>
+        <li><a href="{{ url_for('reviewsbrowse') }}">Browse reviews</a>
+        <li><a href="{{ url_for('editreviews') }}">Edit a review</a>
+        <li><a href="{{ url_for('ownerViewer') }}">View owner information</a> 
+        
+    </ul>
+    
+</body>
+</html>

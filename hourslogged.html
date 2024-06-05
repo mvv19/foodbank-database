@@ -1,0 +1,57 @@
+<html>
+  <head>
+      <title>Delete an entry</title>
+    <style>
+      h1 {
+        margin-top: 50px;
+        margin-left : 10px;
+        font-family: Garamond, serif;
+
+      }
+      p {
+        font-size: 24px;
+        font-family: Garamond, serif;
+        margin-left: 20px;
+      }
+      body {
+      font-family: Garamond, serif;
+      background-color : #FDF7EF;
+      text-align: center;
+      }
+      ul {
+        text-align: center;
+      }
+
+
+    </style>
+  </head>
+<body>
+  <h1>Write an entry</h1>
+  {% if step=="input" %}
+      <form action="{{ url_for('write') }}" method="post">
+      Title: <input type="text" size="30" name="title"><br>
+      Text: <textarea name="content" rows="5" cols="40"></textarea><br>
+      <input type="hidden" name="step" value="add_entry">
+      <input type="submit">
+      </form>
+  {% elif step == "add_entry" %}
+      Your post has been submitted.
+      <p>
+      <a href="{{ url_for('index') }}">Back to homepage</a>
+  {% endif %}
+        <h1>Browse Volunteer Sessions</h1>
+        {% if entries|length > 0 %}
+            <ul>
+            {% for entry in entries %}
+                <li><b>{{ entry.datevolunteered }}</b> ({{ entry.hours }})
+                <p>
+                {{ entry.foodbankaddr }}
+                <hr>
+            {% endfor %}
+            </ul>
+        {% else %}
+            There are no hours in the database
+        {% endif %}
+        <a href="{{ url_for('index') }}">Back to homepage</a>
+</body>
+</html>
